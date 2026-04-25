@@ -30,3 +30,6 @@ Haykin, S. (1998). Neural Networks: A Comprehensive Foundation. (Least Squares a
 Coursework from Python Fundamentals for Numerical Processing and Data Analysis.
 
 Developed by Guilherme Macedo Applying Data Intelligence to Financial & Legal Challenges.
+
+
+<img width="1384" height="584" alt="forecasting_temporal_jurimetria" src="https://github.com/user-attachments/assets/2284b362-2e0e-4ca7-a59b-7b92c9f4ecf9" />
